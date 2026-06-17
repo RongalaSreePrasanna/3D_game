@@ -1,0 +1,6 @@
+{
+  "name": "3D AI Learning Arena",
+  "description": "An immersive, cute 3D action game with interactive real-time puzzles explaining core artificial intelligence concepts across 10 levels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
